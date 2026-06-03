@@ -10,7 +10,7 @@ migrated_at: 2026-06-03
 
 # Test data maintenance workflow
 
-![Workflow diagram](assets/Gemini_Generated_Image_i01en8i01en8i01e.png)
+![Workflow diagram](assets/Wofkflow.png)
 
 ## Steps, Links, and Commands
 
