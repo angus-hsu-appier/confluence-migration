@@ -10,7 +10,7 @@ migrated_at: 2026-06-03
 
 # Test data maintenance workflow
 
-![Workflow diagram](assets/Wofkflow.png)
+![Workflow diagram](assets/Workflow.png)
 
 ## Steps, Links, and Commands
 
